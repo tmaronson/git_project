@@ -1,2 +1,3 @@
 This is myfile3.
 Add another line here.
+He went there yesterday.
