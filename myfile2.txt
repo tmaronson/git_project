@@ -1,3 +1,6 @@
 This is myfile2.
 What should I put on this line?
-"appended content" 
+appended content 
+This is even more stuff
+starting with new content to merge later 
+
