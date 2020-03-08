@@ -2,4 +2,8 @@ This is my_file.
 I added another line.
 This is the third line.
 dev1 added this line.
+<<<<<<< HEAD
 This is 5th line by dev1 and dev2 changed the same line.
+=======
+Master added this line somehow.
+>>>>>>> 7cd0abadf8e79b818b2ea584202019572345a58f
