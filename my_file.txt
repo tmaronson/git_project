@@ -2,3 +2,4 @@ This is my_file.
 I added another line.
 This is the third line.
 dev1 added this line.
+Master added this line somehow.
