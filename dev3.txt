@@ -1,3 +1,4 @@
 This file was created by dev3. It is a nice file.
 Now dev2 added this. And dev3 appended to this line.
-Add to file and try to push to remote.
+Add to file and try to push to remote. Add more to this file on remote.
+
