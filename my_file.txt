@@ -4,3 +4,4 @@ This is the third line.
 dev1 added this line.
 This is 5th line by dev1 and dev2 changed the same line.
 Master added this line somehow.
+Try to push again.
